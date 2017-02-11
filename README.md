@@ -8,3 +8,4 @@ i-sukan is a web application that reserves and books a sports good through onlin
 
 ##Disclaimer
 This web app is quite mess up because this is my first web app and i quite know the system itself have many holes such as you can by bypass the admin login by simple sql statement.
+Fix it if I have time XD
